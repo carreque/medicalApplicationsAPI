@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GyWTv1ORN1KAn/MDT2oqOx3iAZLsmBBBqvAuxC/M7Xw=",
+  "Source": "medicalAppointmentsAPI",
+  "BasePath": "_content/medicalAppointmentsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
